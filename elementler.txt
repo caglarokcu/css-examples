@@ -1,0 +1,853 @@
+
+<head>
+<title>Osman aga</title>
+</head>
+
+<script>console.log("heloooo")</script>     <!-- bunlar sanırım javascript ile alakalı o yüzden kafa yormadım -->
+<script src="xd.js"></script>
+
+<p></p>                                     <!-- bunlar tag, <> işaretlerinin içinde olan her şey; <a>, <p>...-->
+
+<br>
+
+<hr>
+
+<h1></h1>  h6 ya kadar gider ve burda önemli bir nokta var
+
+<pre></pre>
+
+<p><b></b><strong></strong><i></i><em></em><small></small><mark></mark><del></del><ins></ins><sup></sup></p>     <!-- !!! bunların hangisi arama motorları için önemliydi --> 
+
+<p>dolore quis <q>fuga eius eligendi sint </q>numquam, amet natus!</p>
+<p>Lorem consectetur <blockquote>adipisicin nostrum</blockquote> tempora quis saepe corrupti.</p>
+<p><abbr title="Dünya Boş İşler Örgütü">DBİÖ</abbr> Bu yıl çok çalıştı</p>
+<p>adresimi<address>gotom şehri mars gezegeni</address></p>
+<p>onun filmi<cite> recopopsp </cite>çok izlendi</p>
+
+<bdo dir="rtl"> Bunu yazan tosun okuyana kosun</bdo>
+
+<p style="color: red;"> msdklasmdl </p>
+<p title="paragraf"> fdds </p>
+<p style="font-size:32px"> sdfds </p>
+<h1 style="background-color: dodgerblue;"> gfderderg <h1>
+<p style="background-color : rgb(67, 77, 87)"> ahsdbhkasbd </p>
+<h1 style="background-color: #ff1500;"<> asdhbbasdaks </h1>
+<p style="background-color : rgba(67, 77, 87, 0.7)"> ahsdbhkasbd </p>
+<p style="border: none;"> fsdf <p>                                                                                  <!-- kalınlık, çizgi şekli ve renk -->
+
+<head>
+ <style>
+    p{
+        font-size: 10px;                        <!-- bunun css de yazımı neydi -->
+        border: 1px solid dodgerblue;            vorder özellikleri kısa yol tanımlanışı. 
+    }
+    body{
+        background-color: teal;
+        font-family:verdana;                                                                                        ??? Font-family ne yapıyor tam olarak ;  yazının tipini ayarlıyor örnek google font
+    }
+    </style>
+</head>
+
+<a href="https://www.google.com" target="_blank"> renk ayarlama </a><br>
+<a href="https://www.google.com" target="_self"> renk ayarlama </a><br>
+<a href="ilkproje.html" > benim zamazingo </a><br>                                                                 <!-- ../ ile üst root'a çıkılır. ctrl" ile de terminal açılır ve orda nerde olduğun öğrenilir.cd ile üst roota çıkarsın ve ls ile de gidilebilcek yerleri öğrenirsin -->
+<a href="https://pixabay.2669/"><img src="data:image/HenoCA2ftX1boT//Z" alt="logo"></a>
+<a href="mailto:undismayed57@gmail.com">ara beni yala beni</a>
+
+<head>                                                                                                           <!-- ??? Bunu da yazım hatalarını düzeltmek için kullanmıştı, sadece bunun için mi kullanılıyor ? (text-decoration)--> 
+<style>                                                                                                          
+    a:link{
+        color: red;
+        font-size: 64px;
+        text-decoration: none;                                                                                                                 
+    }                                                                                                                    
+    a:visited{
+        color:blue;
+        font-size: 32px;
+        text-decoration: none; 
+    }
+    a:hover{
+        color:green;
+        font-size: 64px;
+        text-decoration: none; 
+    }
+    a:active{
+        color:yellow;
+        font-size: 32px;
+        text-decoration: none; 
+    }
+    </style>
+</head>
+
+
+
+<style>                                                                                                   /* ??? */
+ a:link, a:visited {
+        background-color:red;
+        color:white;
+        font-size: 32px;
+        padding: 15px 600px;
+        display: inline-block;                                                                                   /* ??? Bunun tam kullanımı nedir ? */
+        text-decoration: none;
+    }
+
+    a:hover, a:active{
+        background-color:blue;
+        color:white;
+        font-size: 64px;
+        padding: 15px 15px;
+    }
+
+    </style>
+    </head>
+
+ <body>
+
+    <a href="https://www.sabah.com.tr/" id="sabah">Sabahlar olmasın</a>
+
+    <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Nam asperiores maiores quibusdam tenetur possimus distinctio, explicabo recusandae aspernatur neque in debitis sequi, voluptatibus ipsa maxime quasi dolorem? Consectetur <span id="kelime">sunt</span>, culpa dolorum quos eum voluptas delectus aliquam modi accusantium earum sequi iusto provident vero perferendis eveniet tempora molestiae! Ullam hic distinctio ut alias sint earum, quod molestias deleniti illo possimus porro dolor accusamus labore tenetur veniam, a aut, tempore quidem? Porro aliquid nam reiciendis accusamus asperiores, magnam temporibus nisi dolorum. Soluta ducimus, earum enim, quia quod odit nam deserunt quae doloremque ipsa dignissimos! Et sunt praesentium nostrum iure laboriosam eum amet eos nihil officiis beatae veritatis nesciunt corrupti, voluptatem blanditiis nam. Quasi odio incidunt ad esse! Voluptas soluta, non aspernatur assumenda hic temporibus quisquam autem explicabo, inventore optio repellendus saepe id quos architecto nesciunt provident repellat consequuntur obcaecati, odio laboriosam qui? Cum quidem molestiae quaerat consequuntur praesentium facilis nihil tempore. Nisi vitae incidunt dolore quae facere? Laborum enim quidem eveniet nesciunt aperiam dolor, ullam ea sed. Incidunt assumenda nemo iusto laborum optio iure quis dicta? Rerum impedit repellendus reiciendis, ut porro nam saepe culpa dolorem. Quisquam deserunt consequatur assumenda labore mollitia esse facilis, vitae incidunt vel dolore illum fugiat et laboriosam quae pariatur? Excepturi, quaerat nulla quam assumenda vel dolorem! Voluptas nesciunt saepe natus ab aperiam. Modi illo a neque ab vero sed asperiores omnis, repudiandae ea, quaerat adipisci perspiciatis harum, eius qui. Minima maiores, doloremque voluptates est distinctio tempore sequi perspiciatis sed amet voluptatum libero eum nesciunt rem laudantium consequatur praesentium unde dolorum aspernatur quasi fuga! Odit officia, deserunt fuga voluptate rem eveniet in, voluptatibus possimus aspernatur optio unde quibusdam, laboriosam a fugit? Quaerat magni officia veniam beatae magnam rerum possimus velit blanditiis atque eligendi, mollitia sed, ducimus eius tenetur? Blanditiis distinctio minima excepturi aspernatur veritatis repellat beatae nisi voluptatum commodi velit. Tempora libero natus cumque minus aliquam magni, sint laborum perspiciatis eum animi beatae! Laborum at perferendis ex! Incidunt itaque ut aliquid accusantium tenetur quasi iure, error fugit earum fugiat neque, reprehenderit aliquam vel consequuntur mollitia id quis animi enim a saepe doloremque facere. Amet voluptas asperiores corporis recusandae saepe culpa pariatur fugit maiores optio nesciunt, voluptate quidem possimus soluta ipsa dolores aut sed repudiandae consequuntur. Eum rerum nam fugiat ullam laboriosam, recusandae dolorum voluptates obcaecati nulla dolores rem ut, quibusdam mollitia tenetur consequatur officia dignissimos? Laborum laboriosam voluptatem culpa iure quisquam, aliquam consequuntur totam ullam minus dolor unde obcaecati quae fuga numquam nemo impedit, incidunt distinctio itaque amet accusamus porro, aperiam tenetur pariatur. Nam incidunt reiciendis temporibus cupiditate blanditiis inventore ex dignissimos architecto vel odit nostrum dolor qui consequuntur, praesentium dicta vero vitae veritatis quos accusamus quisquam eius recusandae. Repellendus, magnam cum. Sunt repudiandae culpa ea praesentium autem aperiam quibusdam provident fugit explicabo sequi error id dignissimos ratione est in nesciunt blanditiis commodi, voluptatem libero porro, ipsum iste. Fugiat est, eaque tenetur at nihil fuga inventore ad, dolorem reiciendis, error a. Nostrum perferendis eius sit possimus maiores quod vero soluta quaerat vitae itaque dolore, nesciunt, accusamus dolor voluptatum voluptas, dolorum a architecto nisi ipsam explicabo quae laboriosam excepturi! Praesentium iure maiores incidunt animi molestiae, veritatis magni enim voluptatibus, a pariatur provident dolorem perspiciatis labore quaerat suscipit qui dolore sit eos aliquid! Aliquam itaque nam aut perferendis, iste at quia quis, repudiandae tenetur atque odit omnis error suscipit unde neque labore aliquid. Incidunt labore consequatur velit inventore porro dolorem nulla omnis ab, qui perferendis aliquam atque natus corrupti doloremque fuga architecto iste ratione sunt quibusdam minima vero? Voluptatibus beatae esse numquam. Provident deleniti, amet illo incidunt totam, expedita necessitatibus repellat, ducimus quasi porro nesciunt iure. Veniam, consequuntur alias odio est neque ducimus vitae laborum fugit nihil repellendus, culpa maiores! At commodi corporis officiis recusandae cumque incidunt eveniet, qui quis, exercitationem quo vel? Neque corporis asperiores quo voluptatibus quas, laudantium eos consequatur nesciunt temporibus accusamus sed aliquid quos labore modi repellat debitis eligendi! Soluta placeat cumque ad neque! Odio delectus repellendus cumque praesentium mollitia aut inventore dignissimos debitis eius, fugit consequatur, ratione pariatur. Quae officiis, aspernatur, facilis eius dignissimos fuga vel esse reiciendis quis aliquam perferendis itaque voluptatibus cupiditate earum blanditiis voluptatum, dolore porro illo similique magnam sint repellendus ea. Veritatis laboriosam eius sunt ducimus minus nesciunt dicta sequi ex numquam pariatur quis praesentium modi necessitatibus ipsum, repellendus asperiores labore fuga perspiciatis alias a? Incidunt voluptate ea, nulla voluptatum accusantium eum et nisi ipsa alias ducimus fugiat recusandae laborum similique sequi sed quo natus sapiente illum deleniti maxime tenetur? Tenetur accusantium voluptatum voluptas exercitationem iusto autem iure numquam vitae iste, quod, sequi saepe corporis rem ullam fugit quaerat recusandae sed? Laudantium commodi ab, optio non natus praesentium magni. Esse magnam sapiente veritatis a expedita laborum repellendus explicabo nihil autem similique ipsam iste animi fuga ullam quis et nesciunt, unde odio asperiores suscipit excepturi laudantium ab exercitationem omnis! Illo alias quisquam, molestiae nisi voluptatibus sapiente, cumque explicabo eum ut quos, ab voluptate! Quas ullam, corrupti fuga sed placeat minus iusto voluptatibus at, id saepe, et accusamus repudiandae tempora. Sunt nisi provident non, dolor fuga similique. Quisquam molestias nostrum sapiente? Labore, minus temporibus. Est, necessitatibus numquam aliquid beatae voluptates sint! Nisi totam dolore porro, fugit inventore optio eos modi amet at eaque ipsam voluptatibus obcaecati hic similique quidem vitae veniam, corporis in officia. Tempore ad ratione nobis animi quo nisi, atque quos odit distinctio magnam non sed, culpa consequatur accusantium voluptate? Fuga eveniet pariatur assumenda maiores vel modi unde praesentium deserunt officia molestias, voluptatibus tempora eum libero incidunt quibusdam expedita suscipit nam consectetur atque, debitis impedit facere qui! Temporibus at error libero saepe quas nemo quam placeat quia culpa totam. Blanditiis dolor perspiciatis, placeat magni accusantium molestiae accusamus asperiores officia minus labore possimus cum qui quia quo optio eius eos reiciendis nisi laboriosam inventore quae aliquam eum. Vel error blanditiis amet assumenda totam. Distinctio, odit sed! Labore, nihil saepe delectus et a porro enim quae nostrum iste nemo magni ut, iusto aperiam alias fugit possimus quidem libero! Architecto beatae facere minus, nostrum mollitia recusandae obcaecati perspiciatis voluptatibus nulla illum necessitatibus consectetur? Porro fugiat, dicta tenetur, ducimus culpa repellat harum quos nobis officia corporis blanditiis. Nobis repellat architecto molestiae eum, corrupti eaque repellendus molestias id dolor iusto expedita tempora quo repudiandae debitis, quia accusantium dignissimos commodi saepe tenetur fugit. Iste, blanditiis recusandae. Debitis in enim cum autem dicta perspiciatis aperiam, repudiandae explicabo ipsam tempora? Quis sint error laborum doloribus debitis, nam, nihil earum consectetur dignissimos voluptate quo ipsam magnam ex ratione harum. Suscipit veritatis quibusdam nihil, totam quidem voluptas minima officiis quaerat vero temporibus repellendus expedita velit, quisquam rerum. Placeat porro sit ipsam, non fugiat impedit quas architecto, eligendi aliquam, quis maxime sunt voluptatem totam? Qui nulla aspernatur obcaecati omnis exercitationem voluptatem impedit, at perferendis odit saepe ab accusantium! Tenetur perspiciatis esse labore recusandae porro dolor beatae distinctio doloribus illo. Eum, ratione! Quo illo facilis officiis expedita maxime magnam molestiae assumenda, dolorum harum unde praesentium, sint minus. Et ipsam optio ab aliquam provident ullam quod mollitia amet sint temporibus impedit debitis nihil animi, quas sit odio enim nulla, repellendus quae tenetur id. Consequuntur fugiat quo, libero mollitia odit tempora aliquam nulla dolor molestiae illo aspernatur, vitae optio magnam doloribus quam rem voluptas, ad sunt rerum adipisci repellendus. Vero excepturi eligendi eaque neque ullam illum quidem commodi ea. Non ipsum culpa voluptate veniam ullam inventore eveniet, molestiae minima quisquam quis repellendus illum nulla accusantium eligendi expedita beatae asperiores dolores consequuntur dolorum optio. Dignissimos quisquam aliquam voluptate esse dolorem vero quidem animi sed, asperiores obcaecati eius voluptates perferendis hic non qui a nemo enim. Distinctio, delectus mollitia omnis adipisci accusamus et optio eveniet aliquid doloremque sunt, nostrum earum recusandae suscipit similique exercitationem corrupti tempora ipsam! Eligendi dolorem amet magnam rerum iste? Laudantium, iure? Voluptas, nisi? Molestias facere dolorum deleniti debitis, facilis commodi sed nobis quasi, consectetur reiciendis odit iste, ratione velit? Doloribus minima dolorem, impedit vero natus ullam id est aspernatur maiores alias mollitia sapiente ipsam numquam aliquid voluptates sunt? Doloribus consequatur in, sapiente vero ratione iste earum autem atque voluptate molestias repellendus accusantium exercitationem, ducimus placeat cupiditate.</p>
+
+    <a href="#sabah">sabah</a>
+    <a href="#kelime">kelime</a>    
+</body>
+
+
+
+<body>                                                                                                           <!-- ??? -->
+        <img src="a.jpg" alt="pc" style="width:200px; height:200px;">
+        <img src="https://cdn.evkur.com.tr/c/Product/thumbs/lenovo-ideapad3-1_ns95yr_1920.jpg" alt="pc" style="width:150px; height:150px;"><br>
+        <img src="https://cdn.evkur.com.tr/c/Product/thumbs/lenovo-ideapad3-1_ns95yr_1920.jpg" alt="pc" usemap="#pc1" style="width:885px; height:881px;">
+        <map name="pc1">
+            <area shape="rect" coords="145,155,735,513" alt="pc" href="http://www.google.com">                            <!-- alanlara böldüğümüz için shape--> 
+            <area shape="rect" coords="145,522,770,636" alt="pc" href="http://www.yandex.com">                             
+        </map>    
+    </body>
+
+
+
+<head>                                                                                                           <!-- ??? -->
+
+        <style>
+               table, tr :nth-child(even){                                                                              /* table kullanımı ile ilgili bir şey var burda */
+                   background-color: aliceblue;
+       
+               }
+               table ,tr :nth-child(odd){
+                   background-color: purple;
+       
+               }
+               table, tr, td {
+                   border: 5px solid green;
+                   border-collapse: collapse;
+               }
+       
+               th,td {
+                   padding: 15px;
+                   text-align: left;                                           /* text-align : yazıyı ortala demek.*/
+               }
+               caption{font-size: 50px;}
+               #th1,#td3{
+                   border: 7px solid red;
+               }
+           </style>
+        </head>
+        <body>
+           <table style="width: 100%">
+               <caption>Tabloooo</caption>
+               <tr>
+                   <th rowspan="2" id="th1">İsim</th>
+                   <th>Soyad</th>
+                   <th>Yaş</th>
+                   <th colspan="2">Adres</th>
+                   <th>Resim</th>
+               </tr>
+               <tr>
+                   <td>Çağlar</td>
+                   <td>OKCU</td>
+                   <td id="td3">25</td>
+                   <td>Turkey</td>
+                   <td><img src="a.jpg" alt="" style="width: 50px; height: 50px;"></td>
+               </tr>
+           </table>
+           
+        </body>
+       </html>
+
+
+
+<head>                                                                                                            <!-- ??? -->
+        <style>
+               #menu{
+                   list-style-type: none;
+                   font-size: 20px;               
+                   padding: 0px;                                                                                       /*   margin ve padding in arasındaki frk ne ve neden sanki aynı şeymiş gibi duruyorlar.  */
+                   margin: 0px;
+                   overflow: hidden;
+               }
+               #menu li{
+                   padding-left: 15px;
+                   float: left;
+               }
+           </style>
+        </head>
+        <body>
+           <ul id="menu">
+               <li>Ana Sayfa</li>
+               <li>Menü</li>
+               <li>Hakkımızda</li>
+           </ul>
+       
+           <ul style="list-style-type: disc;">
+               <li>agucuk</li>
+               <li>bugucuk</li>
+               <li>bebecik</li>
+           </ul>
+           <ul style="list-style-type: square;">
+               <li>agucuk</li>
+               <li>bugucuk</li>
+               <li>bebecik</li>
+           </ul>
+           <ul style="list-style-type: circle;">
+               <li>agucuk</li>
+               <li>bugucuk</li>
+               <li>bebecik</li>
+           </ul>
+           <ul style="list-style-type: none;">
+               <li>agucuk</li>
+               <li>bugucuk</li>
+               <li>bebecik</li>
+           </ul>
+           <br>
+           <hr>
+           <br>
+       
+           <ol>
+               <li>Bu</li>
+               <li>Ne</li>
+               <li>aq</li>
+           </ol>
+           <ol type="i">
+               <li>Bu</li>
+               <li>Ne</li>
+               <li>aq</li>
+           </ol>
+           <ol type="I" start="25">
+               <li>Bu</li>
+               <li>Ne</li>
+               <li>aq</li>
+           </ol>
+           <dl>
+               <dt>kalem</dt>
+               <dd>Yazmaya yarar</dd>
+               <dt>silgi</dt>
+               <dd>siker atar</dd>
+           </dl>
+           
+        </body>
+       </html>
+
+
+
+<head>                                                                                                           <!-- ??? -->
+        <style>
+               .seher{
+                   font-size:34px;
+               }
+               .sekil{
+                   color: red;
+               }
+               #a{background-color: aquamarine;}
+               #B{background-color: gray;}
+               #1{
+                   background-color: aqua;
+               }
+           </style>
+        </head>
+        <body>
+             <div class="seher" id="a">
+             <p>bu nedir aga</p>
+             <h2>Boş işlerr</h2>
+           </div>
+           <div class="seher sekil" id="b">                                                                               <!-- Burda iki class tanımlarken aralarında , neden yok ? -->
+               <p>bu nedir aga</p>
+               <h2>Boş işlerr</h2>
+             </div>
+             <div class="şeher" id="1">
+               <p>bu nedir aga</p>
+               <h2>Boş işlerr</h2>
+             </div>
+           
+        </body>
+       </html>
+
+
+
+<body>
+                                                                                                           <!-- ??? -->
+    <iframe name="frame1" frameborder="0" src="https://www.youtube.com/embed/_S8-xEelfnQ" width="600" height="500">al beni kullan beni</iframe>  <!--  frameborder=' değerini değişitirmek neden işe yaramıyor --> 
+    <p><a href="http://google.com" target="frame1">tıkla googlen olayım<a><p>   
+</body>
+
+
+
+<body>
+    <form action="#" method="get">
+        <fieldset>
+            <legend>İsim Bilgileri</legend>
+
+        <label for="ad">Adınızı Giriniz:</label>
+        <input type="text" id="ad" name="ad">
+
+        <label for="soyad">Soyadınızı Giriniz:</label>
+        <input type="text" id="soyad" name="soyad"><br><br>                     <!-- name kullanımı ne işe yarar -->
+        </fieldset>
+
+        <Fieldset>
+            <legend>Sikko bilgiler</legend>
+
+            <label for="erkek">Erkek:</label>
+            <input type="radio" name="cinsiyet" value="erkek" id="erkek" checked="checked">  <!--idleri kaldınırınca bir sorun olmuyor ama nameler gidince sorun, neden böyle ve name birden fazla
+                                                                                             olabiliyordu, burda nasıl tekliliği sağlıyabiliyor -->
+            <label for="kadın">Kadın:</label>
+            <input type="radio" name="cinsiyet" value="kadın" id="kadın"><br><br>                                    
+    
+            <label for="yeşil">yaşil:</label>
+            <input type="checkbox" name="renk" id="yeşil" value="yeşil" checked="checked"> 
+    
+            <label for="mavi">mavi:</label>
+            <input type="checkbox" name="renk" id="mavi" value="mavi">
+    
+            <label for="sarı">sarı:</label>
+            <input type="checkbox" name="renk" id="sarı" value="sarı"><br><br>
+
+            <label for="sehir">Şehir girin</label>
+            <input type="list" id="sehir" name="sehir">
+
+            <datalist id="sehir">                                           <!--   Burda düzgün olması için ne yapmak lazım -->
+                <option value="İstanbul">
+                <option value="Ankara">
+                <option value="İzmir">
+
+            </datalist>
+    
+
+        </Fieldset>
+        
+        <input type="submit" value="gönder">
+        <input type="reset" value="temizle">
+        <input type="button" onclick="alert('Merhaba')" value="normal bir buton">  <br><br>                           <!--   ??? Bunlarde neden id ve name yok mesela? -->
+        
+        <label for="Araba">Favori markalar</label>
+        <select name="Araba" id="Araba" multiple>                                                                    <!--   ??? Sizce çok kullanılıyor mu ? -->
+            <option value="Bmw">Bmw</option>
+            <option value="Mersedes">Mersedes</option>
+            <option value="Audi">Audi</option>
+            <option value="Volvo">Volvo</option>
+            <option value="Wosvogen">Wosvogen</option>
+        </select><br><br>
+        
+        <label for="adres">Adrres</label>
+        <textarea name="adres" id="" cols="50" rows="3">adwad</textarea><br><br>                                     <!-- ??? id= tc no, value = değer, name bu yerin adı mı tam anlayamadım. Burda name değerine göre gönderiyor dedi -->
+
+        <label for="bio">bio</label>
+        <textarea name="bio" id="bio" style="width: 200; height:300;"></textarea> <br><br>
+
+        <button type="button" onclick="alert('selam')">Öylesine</button>
+            
+    </form>    
+</body>
+</html>
+
+
+
+<body>
+
+     <form action="xd.php" method="get">                                  <!--  php ne demek -->
+        type text: <input type="text"><br><br>
+        type pasword: <input type="password"><br><br>
+        type submit: <input type="submit"><br><br>
+        type reset: <input type="reset"><br><br>
+        type button: <input type="button" onclick="alert('S A')" value="Kahveye girdin ilk ne dersin"><br><br>
+        type color: <input type="color" name="color"><br><br>
+        type date: <input type="date" name="date" max="2022-04-04" min="2019-04-04"><br><br>
+        type e mail: <input type="email" name="email"><br><br>
+        type file: <input type="file"><br><br>
+        type mounth: <input type="month" min="2020-04" max="2020-09"><br><br>
+        type number: <input type="number" min="19" max="99"><br><br>
+        type range: <input type="range" min="5" max="10"><br><br>
+        type search: <input type="search"><br><br>
+        type tel: <input type="tel" pattern="[0-9]{3}-[0-9]{2}-[0-9]{3}"><br><br>
+        type time: <input type="time"><br><br>
+        type url: <input type="url"><br><br>
+        type week: <input type="week"><br><br>
+        
+
+    </form>   
+</body>
+
+p.center{                                          <!-- bütün p ler değil, clası center olan p ler-->
+
+        text-align: center;     
+        color: red;
+      }
+      <!-- not: * bütün elementler demek örn *{} -->
+<link rel="stylesheet" type="text/css" href="amkdadkds.css">  <!-- herhangi bir html tagı içermemeli.-->
+
+<body style="background-color:gereen;">
+
+css de youm satırı:  /* gvuygvyuhbuob*/
+
+16 lık sistemde sayı bulma, basamak sayısı kadar 16 nın kuvvetini al ve çarp. ff = (16 üzeri 0)x 15 + (16 üzeri 1)x 15 = 255
+ işlemi tersten yapmak istersen sayıyı 16 ya böl sürekli kalanlar sırasıyla birler basamağından itibaren sayının rakamları
+
+
+
+body{
+    background-image: url(rtyctyt.jpg/askdmad.gif/asmdkalmsd.png)
+    background-repeat: repeat-x;/repeat-y/no-repeat;
+    background-poition: right-top;/ left-bottom;                             <!-- body kısmı az ise bottom üstten taşar -->
+    background-attachment: fixed;/scroll;                            <!-- bodyi scrollasam bile resim sabit fixedde-->
+
+ }
+
+
+
+body{
+    background: #fffff url("asdkads.png") no-repeat right-top                     /*#ffff ne burda ?*/
+ }
+
+
+
+<Style>
+           #p1{
+               margin: 20px;
+               border-style:outset;                 /* ctrl speace ile seçenekleri görebiliriz. */
+               border-color: aqua;
+               border-width: 4px;
+               padding: 10px;
+               border: 3px solid red ;
+           }
+   
+           #p2{
+               margin-top:10px;
+               margin-bottom:2px;
+               margin-right:30px;margin-left:4px;
+               border: 5px solid green;
+               border-width: 1px 30px;
+               border-height: 10px 20px;         /* gördüğün burda neler oluyor*/
+           }
+           #p3{
+               margin:1px 40px;
+               border-right: 1px solid green;
+               border-left: 3px solid blue;
+               border-top: 5px solid black;
+               border-bottom: 7px solid yellow;
+               border-color: brown blueviolet aqua chocolate;
+               border-style: 1px 5px 10px 15px;                         /*bunun düzgün çalışması için nasıl olması lazım*/
+               border-style: ridge outset inset inherit;                /* bu neden çalışmıyor?*/
+               border-style: dashed solid;      
+               padding: 20px;
+           }
+           #div1{
+               background-color: chartreuse;
+               width: 300px;height: 300px;
+               margin: auto;
+               padding: 50px;
+           }
+           #div2{                                                           
+               background-color: chartreuse;
+               width: 300px;height: 300px;
+               margin: auto;
+               padding: 50px;
+               box-sizing: border-box;                                      /* ikisi arasındaki fark */
+           }
+        
+       </Style>
+   </head>
+ <body>
+
+    <p id="p1">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente optio impedit asperiores? Beatae, officia obcaecati?</p><br>
+    <p id="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Eligendi, non accusantium ratione expedita dolore dicta.</p><br>
+    <p id="p3">Lorem ipsum, dolor sit amet consectetur adipisicing elit. Laboriosam distinctio ipsum ab perspiciatis, id nobis?</p><br>
+    <div id="div1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae temporibus quibusdam obcaecati nam recusandae veniam excepturi labore! Labore impedit a id unde! Velit sequi optio inventore tenetur ipsa minus incidunt cum, totam perspiciatis voluptatem delectus in et quo, quasi quae at ea exercitationem vero ipsum placeat id blanditiis ab animi?</div>
+    <div id="div2">Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestiae temporibus quibusdam obcaecati nam recusandae veniam excepturi labore! Labore impedit a id unde! Velit sequi optio inventore tenetur ipsa minus incidunt cum, totam perspiciatis voluptatem delectus in et quo, quasi quae at ea exercitationem vero ipsum placeat id blanditiis ab animi?</div>
+    
+ </body>
+</html>
+
+
+<head>
+        <style>
+               #div1{
+                   margin: auto;
+                   background-color: aqua;
+                   width:50%;
+                   height: 80%;                                     /*hangisi çalışır , neden? */
+               }
+               #div2{
+                   width:200px;
+                   height:200px;
+                   margin:20px;
+                   padding:50px;
+                   box-sizing: border-box;
+                   border: 5px solid green;
+                   background-color: crimson;
+               }
+           </style>
+        </head>
+        <body style="background-color:black;">
+           <div id="div1">Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio, laudantium aliquid ea fugit nostrum dolorem fuga aut. Ab voluptatum necessitatibus quae laboriosam. Eaque iusto corporis officia atque deleniti provident vero. Illum reiciendis laborum atque dignissimos et deserunt nisi esse eveniet, incidunt reprehenderit facilis possimus sint error provident perspiciatis sed ea! Tenetur aut incidunt illo, consequatur vero atque consequuntur ad! Officia minus accusamus consequuntur quidem sint reiciendis animi dignissimos id, eos minima odit sunt, magnam totam expedita. Quos, doloribus. Quasi voluptate repellendus iste aut, nulla odit fugit magnam optio aspernatur nemo molestiae debitis quos! Magni, ea! Similique, iure eum distinctio harum sapiente itaque nam, impedit dicta soluta delectus vero vel odio quod saepe obcaecati laborum velit! Deserunt quos nostrum nesciunt animi iste error beatae id totam recusandae molestiae fugit, quaerat voluptatibus, voluptatum officia odio facere autem tenetur voluptates eveniet. Id quasi mollitia vero blanditiis amet consectetur laudantium, suscipit obcaecati asperiores ullam quod quidem eum nulla. Molestiae culpa dolores odit fugiat distinctio perferendis reprehenderit laborum ullam cum dicta, harum eos at ab repudiandae reiciendis placeat quibusdam consectetur id. Accusamus nostrum facilis porro saepe aliquid sapiente incidunt veritatis ad molestiae ipsam iure tempora reprehenderit a eaque deleniti laudantium placeat, perferendis maxime quasi ullam. Ut, quam eligendi dolorem asperiores nam fugiat magni impedit nemo excepturi, quo inventore rerum odio, explicabo harum. Odio voluptas aliquam excepturi sed quis perferendis ea accusantium deserunt magnam repellat incidunt aliquid corporis consectetur facilis numquam inventore, id cumque non? Dolorem harum molestiae facilis inventore, numquam explicabo eius provident modi error soluta exercitationem unde architecto quod debitis quas necessitatibus aliquam at officia tempore quam! Debitis eum quidem harum at, temporibus exercitationem obcaecati sint sed, officia, ipsa tempora perspiciatis. Nam consectetur harum architecto eveniet illo debitis temporibus ullam minima amet qui libero odit, itaque quia modi animi cupiditate dolores sequi recusandae asperiores!</div>
+           <div id="div2">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Cupiditate nihil voluptatum necessitatibus eius ullam? In!</div>
+       </body>
+</html>
+
+
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+        <style>
+           #para1{
+               color:red
+               color:#ff0000;
+               color:rgb(255 0 0);
+               font-size: 32px;
+               background-color: green;
+               text-align: justify;                           /* Bu nasıl çalışıyor? */
+               text-align: center;
+               direction: rtl;                                /* Bunu yapınca neden nokte geldi*/
+               unicode-bidi: bidi-override;                   /* Bunu ne yapıyordu ? */
+           }
+           #para2{
+               text-decoration: line-through;
+               text-decoration: overline;
+               text-decoration: underline;
+               text-decoration: aqua;                          /* Bu neden işe yaramıyor ?*/
+           }
+           #para3{
+               text-transform: lowercase;
+               text-transform: capitalize;
+               text-indent: 100px;
+               letter-spacing: 4px;
+               font-size: 32px;
+               line-height: 4;                                    /* Px gelmeyince ne oldu?*/
+           }
+           #para4{
+               word-spacing: 4px;
+               white-space: nowrap;                               /*bu ne yapıyordu ?*/
+               font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    /* font-family nasıl indirilip kullanılıyor anlamadım*/
+           }
+           #para5{
+               text-shadow: 2px 2px blue;
+               font-size: large;
+           }
+           </style>
+           
+        </head>
+        <body>
+           
+           <!-- (p.para$#par$)*30                   neden olmuyor ?-->
+       
+           <p id="para1" class="money1">Lorem ipsum dolor sit amet.</p>
+           <p id="para2" class="money2">Lorem ipsum dolor sit amet.</p>
+           <p id="para3" class="money3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit soluta, accusamus itaque recusandae deleniti ipsam?.</p>
+           <p id="para4" class="money4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti ipsa beatae quasi quo nobis mollitia, tenetur dolore aut necessitatibus cum in optio vel molestiae repellat minus impedit neque ducimus ullam, dignissimos aliquid exercitationem officia cupiditate tempore ut. Id itaque architecto tenetur harum nihil maxime commodi voluptates iure necessitatibus optio. Rem..</p>
+           <p id="para5" class="money5">Lorem ipsum dolor sit amet.</p>
+        </body>
+    </html>
+ <body>
+    
+    <!-- (p.para$#par$)*30                   neden olmuyor ?-->
+
+    <p id="para1" class="money1">Lorem ipsum dolor sit amet.</p>
+    <p id="para2" class="money2">Lorem ipsum dolor sit amet.</p>
+    <p id="para3" class="money3">Lorem ipsum dolor sit amet consectetur adipisicing elit. Sit soluta, accusamus itaque recusandae deleniti ipsam?.</p>
+    <p id="para4" class="money4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Corrupti ipsa beatae quasi quo nobis mollitia, tenetur dolore aut necessitatibus cum in optio vel molestiae repellat minus impedit neque ducimus ullam, dignissimos aliquid exercitationem officia cupiditate tempore ut. Id itaque architecto tenetur harum nihil maxime commodi voluptates iure necessitatibus optio. Rem..</p>
+    <p id="para5" class="money5">Lorem ipsum dolor sit amet.</p>
+ </body>
+</html>
+
+
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Document</title>
+        <style>
+        /* *{
+            margin:0px;                                          peki Bu komut satırı ne yaptırır?
+            padding: 0px;
+        } */
+        .parent{
+            width:300px;
+    
+            border:1px solid red;
+        }
+        .item{
+            background-color: orange;
+            height:30px;
+            margin: 20px 0px;
+        }
+        .item-yüzde{
+            width:50%;
+        }
+        .item-view{
+            width: 50vw;                           /*  Bunlar ne yapıyordu beki */
+            height: 50vh;
+        }
+        </style>
+     </head>
+     <body>
+        <div class="item item-view"> %50 view</div>
+        <div class="item item-yüzde"> %50</div>                    
+        <div class="parent">
+            <div class="item"></div>
+            <div class="item"></div>                             <!--  .parent>(.item)*2 -->
+            <div class="item item-yüzde"> %50</div>
+        </div>   
+ </body>
+</html>
+
+<html lang="en" style="font-size:30px;">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+ </head>
+ <style>
+    .parent{
+        font-size:15px;
+        width: 300px;
+        border:1px solid red;
+    }
+    .item{
+        height:30px;
+        background-color: orange;
+        margin:20px 0px;
+    }
+
+    .item-rem{
+        font-size: 2rem;                                             /* Bu neden böyle oldu, bir intarnet sitesinde kullanım faydaları ve kısas aldı şeyin açılımı?*/
+    }
+    .item-em{
+        font-size: 2em;                                              /*Bu neden böyle oldu, kısas aldığı şey ve intarnet sitesinde kullanımındaki sıkıntısı ne?*/
+    }
+ </style>
+ <body>
+
+    <div class="parent">
+        <div class="item item-rem">Rem</div>
+        <div class="item item-em">Em</div>
+ </div>
+    
+ </body>
+</html>
+
+
+
+*{
+    box-sizing: border-box;                      /*Bu box sizing, neyi ne yap diyordu?(283)*/
+ }
+ .btn{
+    background-color: #eee;
+    border:1px solid #ccc;
+    outline: none;                      /*Bu neyi ne yap diyordu?(283)*/
+    cursor: pointer;                      /*Bu neyi ne yap diyordu?(283)*/
+    font-size: 1em;
+    padding: .5em 1em;                    /*burda .5em yaptığımız için boyut değişti, bunu araştır. */
+    border-radius: .4em;
+ }
+ .btn:hover, .btn:focus{
+    background-color: #ddd;
+    box-shadow: -13px -5px 15px 2px;        /*Bunu internet sitesinde detaylı bir biçimde görüp burdaya yazıyorduk, nasıl yapıyorduk onu?*/
+ }
+ .btn-accent{
+    background-color: hsl(54, 76%, 32%);
+    border-color: hsl(54, 76%, 20%);
+    color: white;
+ }
+ .btn-accent:hover, .btn-accent:focus{
+    background-color: hsl(54, 76%, 40%);
+    box-shadow: -13px -5px 15px 2px hsl(54, 76%, 50%);
+ }
+ .btn-danger{
+    background-color: hsla(0, 98%, 50%, 0.651);
+    border-color: hsla(0, 99%, 49%, 0.315);
+    color: white;
+ }
+ .btn-danger:hover, .btn-danger:focus{
+    background-color: hsla(0, 100%, 50%, 0.925);
+    box-shadow: 0 0 5px 0 hsla(0, 100%, 50%, 0.623);
+ }
+ .btn-large{
+    font-size:1.25em;
+ }
+ .btn-small{
+    font-size:0.75em;
+ }
+ .btn-oval{
+    border-radius: 100000px;
+ } 
+ 
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../firstHello/css/1.css">
+ </head>
+ <body>
+    <button class="btn">default</button>
+    <button class="btn btn-primary">primary</button>
+    <button class="btn btn-accent">accent</button>
+    <button class="btn btn-danger">danger</button>
+    <button class="btn btn-large">large</button>
+    <button class="btn btn-small">small</button>
+    <button class="btn btn-oval">oval</button>
+ </body>
+</html>
+
+
+
+input{
+    margin:.5em;
+ }
+ .input{
+    border: 1px soldi black;
+    outline: none;                                /* outline ne yapıor? */
+    font-size: inherit;                           /* peki bu ne yapıor? */
+    padding: .5em;
+    border-radius: .25em;
+ }
+ .input:focus{
+    border-color: 1px solid black;
+    box-shadow: 0 0 5px 0 black;
+ }
+ .Success{
+    border-color: rgba(0, 146, 0, 0.767);
+    box-shadow: 0 0 5px 0 black;
+ }
+ .Success:focus{
+    border-color: rgba(3, 255, 3, 0.842);
+ }
+ .Error{
+    border-color: rgb(136, 0, 0);
+    box-shadow: 0 0 5px 0 black;
+ }
+ .Error:focus{
+    border-color: rgba(255, 3, 3, 0.842);
+ }
+ .Large{
+    font-size: 1.25em;
+ }
+ .Small{
+    font-size: 0.75em;
+ }
+ .Disabled{
+    background-color: rgb(139, 139, 139);
+ }
+
+ <!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="../firstHello/css/1.css">
+ </head>
+ <body>
+
+ <input type="text" value="Default" class="input Default">
+ <input type="text" value="Success" class="input Success">
+ <input type="text" value="Error" class="input Error">
+ <input type="text" value="Large" class="input Large">
+ <input type="text" value="Small" class="input Small">
+ <input type="text" value="Disabled" disabled="disabled" class="input Disabled">
+    
+ </body>
+</html>
+
+
+profil projedini incele.
+
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        div{
+            background-color: yellow;
+            width: 200px;
+            height: 200px;
+        }
+        .container{
+            width:50%;
+            background-color: red;
+            padding: 1rem;
+        }
+        span{
+            color: blue;
+            width: 500px;
+            height: 500px;
+            background-color: purple;
+            display: inline-block;
+        }
+        .btn{
+            width: 200px;
+            height: 200px;
+        }
+        .xd{
+            width: 200px;
+            height: 200px;
+        }
+        .display{
+            display:none;
+        }
+    </style>
+ </head>
+ <body>
+    <div class="container">
+        <div>Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere inventore reiciendis aspernatur molestias laborum aperiam.</div>
+    </div>
+    <p>Lorem ipsum dolor sit amet, consectetur <span>adipisicing elit. Architecto qui blanditiis </span> facere voluptatem, eos expedita, ducimus saepe inventore aliquid fuga ut necessitatibus distinctio voluptates voluptatum reprehenderit magni nesciunt optio, magnam quam reiciendis recusandae quis possimus officiis aliquam. Ipsa pariatur quod quo laborum harum nostrum impedit, rerum, unde illum maiores accusantium?</p>
+    <p class="display">Burası Kaybolocak</p>
+    <button class="btn">Beni tıklaaaaaaaa</button><span class="xd">Lorem ipsum dolor sit amet.</span>
+ </body>
+</html>
+
+
+
+<!DOCTYPE html>
+ <html lang="en">
+ <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        .image1{
+            float:left;
+        }
+        .image2{
+            float:right;                          /*Bunların önceliğini ne belirliyor?*/
+        }
+        p{
+            clear:left;
+        }
+    </style>
+ </head>
+ <body>
+    <img src="http://source.unsplash.com/100x200" class="image1">
+    <img src="http://source.unsplash.com/100x100" class="image2">
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Et provident eveniet quos, quisquam, molestiae qui sunt beatae minima quasi unde voluptas sint cumque, voluptatum quam. Modi adipisci enim sequi provident corporis vero possimus quas nisi eligendi, consectetur nostrum nemo tenetur pariatur, cupiditate sint laborum assumenda! Ut reprehenderit autem harum praesentium?</p>
+ </body>
+</html>
+
+
+

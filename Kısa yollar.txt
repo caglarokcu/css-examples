@@ -1,0 +1,36 @@
+ctrl z , geri. shift ctrl z gerinin gerisi.
+
+ctrl ok yönü, gelime gelime ilerlemek. Shift ctrl ok yönü, ilerlediğin gelimeleri de seçmem.
+
+ctrl g ve satır numarası ile istediğin satıra gidebiliyorsun.
+
+alt tuşuna basılı tutunca ilgili satırı taşır.
+ 
+alt tuşuna basıp başka satıra tıklarsan iki veye daha fazla satırda işlem yaparsın
+
+belli seçtiğin bir alanı ctrl k c yaparsan yorum satırına çeviri.
+ctrl ö de aynı işelmi yapar ikisi arasına fark kc de geri gelemiyon 
+sürekli yorum işareti ekiliyor ama ctrl ö ye 2. defa basınca yorumu kaldırıyor.
+
+blok yorum yapmak istiyorsan da ctrl alt a tuşları. ctrl ö gibi çalışıyor.
+
+shift alp ve yukarı veya aşşağı ok yönü ile bulunduğun satırı yukarı veya
+aşşağı kopyalıyabiliyorsun.
+
+alt ve sol ok ile en son işlem yaptığın satıra gidiyorsun.
+
+alt ve ok yönüne basınca en son işlem yaptığın satıra gidersin.
+
+ctrl p  ye basınca hızlıca arama yapabiliriz. çalışmıyor.
+
+ctrl b tuşu ile soldaki folder dosyasını kapatıp açabiliyorsun.
+
+süslü parantezin sonuna gitmek için ctrl shift ç
+
+ctrl " ile de terminal penceresini açabilirsiniz.
+
+windows tuşu ve ok yönü tuşları ile yerleştirme yapabilirsin.
+
+
+
+
